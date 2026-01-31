@@ -1,0 +1,77 @@
+/* lang_bars.css */
+
+:root{
+  --bar-h: 18px;
+  --cell-pad-y: 2px;
+  --cell-pad-x: 10px;
+}
+
+body{
+  font-family: system-ui, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  padding: 16px;
+  background: #2b2f34;   /* dark neutral grey */
+}
+
+table.bars{
+  width: 100%;
+  border-collapse: separate;   /* needed for border-radius to show */
+  border-spacing: 0;
+  background: #353a40;        /* slightly lighter than page */
+  border-radius: 10px;
+  overflow: hidden;           /* clips children to rounded corners */
+}
+
+table.bars th,
+table.bars td{
+  padding: var(--cell-pad-y) var(--cell-pad-x);
+  border-bottom: none; /* remove row borders */
+}
+
+table.bars th{
+  text-align: left;
+  background: #000;
+  color: #e6e6e6;
+}
+
+.barcell{
+  position: relative;
+  height: var(--bar-h);
+}
+
+.bar{
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: var(--bar-h);
+  border-radius: 4px;
+  /* background is either from language class OR inline grey fallback */
+}
+
+.label{
+  position: absolute;
+  left: 8px;
+  top: 0;
+  height: var(--bar-h);
+  line-height: var(--bar-h);
+  color: #000;
+  font-size: 13px;
+  white-space: nowrap;
+  pointer-events: none;
+  /* optional: add subtle readability on bright bars */
+  text-shadow: 0 0 2px rgba(255,255,255,0.6);
+}
+
+/* Known language colours (extend as you like) */
+.lang-rust       { background: #dea584; }
+.lang-c          { background: #555555; }
+.lang-cpp        { background: #f34b7d; }
+.lang-python     { background: #3572A5; }
+.lang-go         { background: #00ADD8; }
+.lang-javascript { background: #f1e05a; }
+.lang-typescript { background: #3178c6; }
+.lang-shell      { background: #89e051; }
+.lang-html       { background: #e34c26; }
+.lang-css        { background: #563d7c; }
+.lang-lua        { background: #000080; }
+.lang-java       { background: #b07219; }
+.lang-kotlin     { background: #a97bff; }
