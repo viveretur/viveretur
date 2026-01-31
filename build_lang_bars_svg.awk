@@ -190,7 +190,7 @@ END{
   printf "<rect x=\"%d\" y=\"%d\" width=\"%d\" height=\"%d\" rx=\"%d\" ry=\"%d\" fill=\"%s\"/>\n", PAD, PAD, W-(2*PAD), HEADER_H, RX, RX, HEAD
   # Square off the bottom corners by overlaying a flat strip on the lower part
   printf "<rect x=\"%d\" y=\"%d\" width=\"%d\" height=\"%d\" fill=\"%s\"/>\n", PAD, PAD + RX, W-(2*PAD), HEADER_H - RX, HEAD
-  printf "<text x=\"%d\" y=\"%d\" fill=\"%s\" font-family=\"system-ui,Segoe UI,Roboto,Helvetica,Arial\" font-size=\"18\" font-weight=\"600\">Language distribution</text>\n",
+  printf "<text x=\"%d\" y=\"%d\" fill=\"%s\" font-family=\"system-ui,Segoe UI,Roboto,Helvetica,Arial\" font-size=\"18\" font-weight=\"600\">Linguae</text>\n",
        PAD+12, PAD+26, HEAD_TXT
 
   # Render top N bars
