@@ -1,80 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 372" preserveAspectRatio="xMinYMin meet">
-<rect x="15.5" y="15.5" width="949.0" height="341.0" rx="10" ry="10" fill="#353a40" stroke="#ffffff" stroke-width="1"/>
-<rect x="16" y="16" width="948" height="42" rx="10" ry="10" fill="#000000"/>
-<rect x="16" y="26" width="948" height="32" fill="#000000"/>
-<text x="28" y="42" fill="#ffffff" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="18" font-weight="600">Language distribution</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 344" preserveAspectRatio="xMinYMin meet">
+<rect x="1.5" y="1.5" width="977.0" height="341.0" rx="10" ry="10" fill="#353a40" stroke="#ffffff" stroke-width="1"/>
+<rect x="2" y="2" width="976" height="42" rx="10" ry="10" fill="#000000"/>
+<rect x="2" y="12" width="976" height="32" fill="#000000"/>
+<text x="14" y="28" fill="#ffffff" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="18" font-weight="600">Language distribution</text>
 <g>
-  <rect x="16" y="58" width="948" height="28" rx="4" ry="4" fill="#000080"/>
-  <text x="24" y="72" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Lua</text>
-  <rect x="16" y="58" width="948" height="28" fill="transparent" pointer-events="all">
+  <rect x="2" y="44" width="976" height="28" rx="4" ry="4" fill="#000080"/>
+  <text x="10" y="58" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Lua</text>
+  <rect x="2" y="44" width="976" height="28" fill="transparent" pointer-events="all">
     <title>Lua: 17153</title>
   </rect>
 </g>
 <g>
-  <rect x="16" y="86" width="683" height="28" rx="4" ry="4" fill="#9b9b9b"/>
-  <text x="24" y="100" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">PHP</text>
-  <rect x="16" y="86" width="948" height="28" fill="transparent" pointer-events="all">
+  <rect x="2" y="72" width="704" height="28" rx="4" ry="4" fill="#9b9b9b"/>
+  <text x="10" y="86" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">PHP</text>
+  <rect x="2" y="72" width="976" height="28" fill="transparent" pointer-events="all">
     <title>PHP: 12375</title>
   </rect>
 </g>
 <g>
-  <rect x="16" y="114" width="295" height="28" rx="4" ry="4" fill="#3572A5"/>
-  <text x="24" y="128" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Python</text>
-  <rect x="16" y="114" width="948" height="28" fill="transparent" pointer-events="all">
+  <rect x="2" y="100" width="304" height="28" rx="4" ry="4" fill="#3572A5"/>
+  <text x="10" y="114" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Python</text>
+  <rect x="2" y="100" width="976" height="28" fill="transparent" pointer-events="all">
     <title>Python: 5352</title>
   </rect>
 </g>
 <g>
-  <rect x="16" y="142" width="96" height="28" rx="4" ry="4" fill="#b07219"/>
-  <text x="24" y="156" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Java</text>
-  <rect x="16" y="142" width="948" height="28" fill="transparent" pointer-events="all">
+  <rect x="2" y="128" width="99" height="28" rx="4" ry="4" fill="#b07219"/>
+  <text x="10" y="142" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Java</text>
+  <rect x="2" y="128" width="976" height="28" fill="transparent" pointer-events="all">
     <title>Java: 1743</title>
   </rect>
 </g>
 <g>
-  <rect x="16" y="170" width="73" height="28" rx="4" ry="4" fill="#f34b7d"/>
-  <text x="24" y="184" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">C++</text>
-  <rect x="16" y="170" width="948" height="28" fill="transparent" pointer-events="all">
+  <rect x="2" y="156" width="75" height="28" rx="4" ry="4" fill="#f34b7d"/>
+  <text x="10" y="170" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">C++</text>
+  <rect x="2" y="156" width="976" height="28" fill="transparent" pointer-events="all">
     <title>C++: 1322</title>
   </rect>
 </g>
 <g>
-  <rect x="16" y="198" width="50" height="28" rx="4" ry="4" fill="#c4c4c4"/>
-  <text x="24" y="212" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Markdown</text>
-  <rect x="16" y="198" width="948" height="28" fill="transparent" pointer-events="all">
-    <title>Markdown: 908</title>
+  <rect x="2" y="184" width="51" height="28" rx="4" ry="4" fill="#555555"/>
+  <text x="10" y="198" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Markdown</text>
+  <rect x="2" y="184" width="976" height="28" fill="transparent" pointer-events="all">
+    <title>Markdown: 905</title>
   </rect>
 </g>
 <g>
-  <rect x="16" y="226" width="24" height="28" rx="4" ry="4" fill="#bcbcbc"/>
-  <text x="24" y="240" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">reStructuredText</text>
-  <rect x="16" y="226" width="948" height="28" fill="transparent" pointer-events="all">
+  <rect x="2" y="212" width="25" height="28" rx="4" ry="4" fill="#bcbcbc"/>
+  <text x="10" y="226" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">reStructuredText</text>
+  <rect x="2" y="212" width="976" height="28" fill="transparent" pointer-events="all">
     <title>reStructuredText: 444</title>
   </rect>
 </g>
 <g>
-  <rect x="16" y="254" width="20" height="28" rx="4" ry="4" fill="#563d7c"/>
-  <text x="24" y="268" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">CSS</text>
-  <rect x="16" y="254" width="948" height="28" fill="transparent" pointer-events="all">
+  <rect x="2" y="240" width="20" height="28" rx="4" ry="4" fill="#563d7c"/>
+  <text x="10" y="254" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">CSS</text>
+  <rect x="2" y="240" width="976" height="28" fill="transparent" pointer-events="all">
     <title>CSS: 363</title>
   </rect>
 </g>
 <g>
-  <rect x="16" y="282" width="19" height="28" rx="4" ry="4" fill="#e34c26"/>
-  <text x="24" y="296" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">HTML</text>
-  <rect x="16" y="282" width="948" height="28" fill="transparent" pointer-events="all">
+  <rect x="2" y="268" width="19" height="28" rx="4" ry="4" fill="#e34c26"/>
+  <text x="10" y="282" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">HTML</text>
+  <rect x="2" y="268" width="976" height="28" fill="transparent" pointer-events="all">
     <title>HTML: 344</title>
   </rect>
 </g>
 <g>
-  <rect x="16" y="310" width="16" height="28" rx="4" ry="4" fill="#7a7a7a"/>
-  <text x="24" y="324" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">awk</text>
-  <rect x="16" y="310" width="948" height="28" fill="transparent" pointer-events="all">
+  <rect x="2" y="296" width="17" height="28" rx="4" ry="4" fill="#7a7a7a"/>
+  <text x="10" y="310" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">awk</text>
+  <rect x="2" y="296" width="976" height="28" fill="transparent" pointer-events="all">
     <title>awk: 306</title>
   </rect>
 </g>
-<text x="24" y="351" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="14">
-  <tspan x="24" dy="0">Others: Assembly, Bourne Shell, DOS Batch, Fortran 77, INI, Rust, SVG, TOML, Verilog-SystemVerilog, XML, make</tspan>
+<text x="10" y="337" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="14">
+  <tspan x="10" dy="0">Others: Assembly, Bourne Shell, DOS Batch, Fortran 77, INI, Rust, SVG, TOML, Verilog-SystemVerilog, XML, make</tspan>
 </text>
 </svg>

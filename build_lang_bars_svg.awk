@@ -40,7 +40,7 @@ function css_color(lang, total,    l, g){
 BEGIN{
   # SVG layout constants
   W = 980
-  PAD = 16
+  PAD = 2
   HEADER_H = 42
   ROW_H = 28
   BAR_H = 28
