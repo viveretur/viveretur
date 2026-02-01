@@ -47,17 +47,17 @@
   </rect>
 </g>
 <g>
-  <rect x="2" y="212" width="25" height="28" rx="4" ry="4" fill="#bcbcbc"/>
-  <text x="10" y="226" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">reStructuredText</text>
+  <rect x="2" y="212" width="25" height="28" rx="4" ry="4" fill="#dea584"/>
+  <text x="10" y="226" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Rust</text>
   <rect x="2" y="212" width="976" height="28" fill="transparent" pointer-events="all">
-    <title>reStructuredText: 444</title>
+    <title>Rust: 454</title>
   </rect>
 </g>
 <g>
-  <rect x="2" y="240" width="22" height="28" rx="4" ry="4" fill="#dea584"/>
-  <text x="10" y="254" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Rust</text>
+  <rect x="2" y="240" width="25" height="28" rx="4" ry="4" fill="#bcbcbc"/>
+  <text x="10" y="254" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">reStructuredText</text>
   <rect x="2" y="240" width="976" height="28" fill="transparent" pointer-events="all">
-    <title>Rust: 393</title>
+    <title>reStructuredText: 444</title>
   </rect>
 </g>
 <g>
