@@ -4,6 +4,7 @@ set -euo pipefail
 OUT_HTML="lang_bars.html"
 CSS_FILE="lang_bars.css"
 AWK_SCRIPT="build_lang_bars.awk"
+EXC_DIRS="venv,target,imputatio,producit"
 
 # Where to run cloc (default: current directory)
 TARGET="${1:-.}"
@@ -21,7 +22,7 @@ command -v cloc >/dev/null 2>&1 || {
 }
 
 # Generate HTML table
-cloc "$TARGET" --csv --quiet --exclude-dir=venv \
+cloc "$TARGET" --csv --quiet --exclude-dir="$EXC_DIRS" \
   | awk -F',' -v CSS_HREF="$CSS_FILE" -f "$AWK_SCRIPT" \
   > "$OUT_HTML"
 
@@ -30,6 +31,6 @@ echo "Open:  xdg-open test_wrapper.html"
 
 mkdir -p assets
 
-cloc "$TARGET" --csv --quiet --exclude-dir=venv \
+cloc "$TARGET" --csv --quiet --exclude-dir="$EXC_DIRS" \
   | gawk -F',' -f build_lang_bars_svg.awk \
   > assets/lang_bars.svg
