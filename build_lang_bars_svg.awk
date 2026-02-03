@@ -57,7 +57,7 @@ BEGIN{
   TOP = 10
   LINE_H = 18          # line height for Others row
   OTHER_FSIZE = 14
-  MAX_CHARS = 110      # wrap width heuristic; tune for your SVG width/font
+  MAX_CHARS = 135      # wrap width heuristic; tune for your SVG width/font
 
   # Scaling: set to 1 for log scale, 0 for linear scale
   USE_LOG = 0
