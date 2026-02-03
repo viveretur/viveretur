@@ -40,10 +40,10 @@
   </rect>
 </g>
 <g>
-  <rect x="2" y="184" width="72" height="28" rx="4" ry="4" fill="#dea584"/>
+  <rect x="2" y="184" width="78" height="28" rx="4" ry="4" fill="#dea584"/>
   <text x="10" y="198" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Rust</text>
   <rect x="2" y="184" width="976" height="28" fill="transparent" pointer-events="all">
-    <title>Rust: 919</title>
+    <title>Rust: 1000</title>
   </rect>
 </g>
 <g>
