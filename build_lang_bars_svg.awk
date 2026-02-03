@@ -31,6 +31,10 @@ function css_color(lang, total,    l, g){
   if (l == "lua") return "#000080"
   if (l == "java") return "#b07219"
   if (l == "kotlin") return "#a97bff"
+  if (l == "php") return "#4F5D95"
+  if (l == "xml") return "#0060ac"
+  if (l == "markdown") return "#083fa1"
+  if (l == "restructuredtext") return "#141414"
 
   # deterministic grey for unknown languages
   g = 80 + ((total * 37) % 120)    # 80..199
