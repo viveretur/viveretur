@@ -4,7 +4,7 @@ set -euo pipefail
 OUT_HTML="lang_bars.html"
 CSS_FILE="lang_bars.css"
 AWK_SCRIPT="build_lang_bars.awk"
-EXC_DIRS="venv,target,imputatio,producit"
+EXC_DIRS="venv,target,imputatio,producit,build"
 
 # Where to run cloc (default: current directory)
 TARGET="${1:-.}"
