@@ -40,10 +40,10 @@
   </rect>
 </g>
 <g>
-  <rect x="2" y="184" width="83" height="28" rx="4" ry="4" fill="#dea584"/>
+  <rect x="2" y="184" width="88" height="28" rx="4" ry="4" fill="#dea584"/>
   <text x="10" y="198" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Rust</text>
   <rect x="2" y="184" width="976" height="28" fill="transparent" pointer-events="all">
-    <title>Rust: 1057</title>
+    <title>Rust: 1126</title>
   </rect>
 </g>
 <g>
@@ -68,10 +68,10 @@
   </rect>
 </g>
 <g>
-  <rect x="2" y="296" width="27" height="28" rx="4" ry="4" fill="#e34c26"/>
+  <rect x="2" y="296" width="25" height="28" rx="4" ry="4" fill="#e34c26"/>
   <text x="10" y="310" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">HTML</text>
   <rect x="2" y="296" width="976" height="28" fill="transparent" pointer-events="all">
-    <title>HTML: 345</title>
+    <title>HTML: 318</title>
   </rect>
 </g>
 <text x="10" y="337" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="14">
