@@ -33,17 +33,17 @@
   </rect>
 </g>
 <g>
-  <rect x="2" y="156" width="104" height="28" rx="4" ry="4" fill="#f34b7d"/>
-  <text x="10" y="170" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">C++</text>
+  <rect x="2" y="156" width="112" height="28" rx="4" ry="4" fill="#dea584"/>
+  <text x="10" y="170" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Rust</text>
   <rect x="2" y="156" width="976" height="28" fill="transparent" pointer-events="all">
-    <title>C++: 1322</title>
+    <title>Rust: 1427</title>
   </rect>
 </g>
 <g>
-  <rect x="2" y="184" width="99" height="28" rx="4" ry="4" fill="#dea584"/>
-  <text x="10" y="198" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Rust</text>
+  <rect x="2" y="184" width="104" height="28" rx="4" ry="4" fill="#f34b7d"/>
+  <text x="10" y="198" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">C++</text>
   <rect x="2" y="184" width="976" height="28" fill="transparent" pointer-events="all">
-    <title>Rust: 1257</title>
+    <title>C++: 1322</title>
   </rect>
 </g>
 <g>
