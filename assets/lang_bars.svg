@@ -12,10 +12,10 @@
   </rect>
 </g>
 <g>
-  <rect x="2" y="72" width="422" height="28" rx="4" ry="4" fill="#3572A5"/>
+  <rect x="2" y="72" width="428" height="28" rx="4" ry="4" fill="#3572A5"/>
   <text x="10" y="86" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Python</text>
   <rect x="2" y="72" width="976" height="28" fill="transparent" pointer-events="all">
-    <title>Python: 5352</title>
+    <title>Python: 5433</title>
   </rect>
 </g>
 <g>
@@ -26,17 +26,17 @@
   </rect>
 </g>
 <g>
-  <rect x="2" y="128" width="137" height="28" rx="4" ry="4" fill="#b07219"/>
-  <text x="10" y="142" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Java</text>
+  <rect x="2" y="128" width="158" height="28" rx="4" ry="4" fill="#dea584"/>
+  <text x="10" y="142" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Rust</text>
   <rect x="2" y="128" width="976" height="28" fill="transparent" pointer-events="all">
-    <title>Java: 1743</title>
+    <title>Rust: 2004</title>
   </rect>
 </g>
 <g>
-  <rect x="2" y="156" width="131" height="28" rx="4" ry="4" fill="#dea584"/>
-  <text x="10" y="170" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Rust</text>
+  <rect x="2" y="156" width="137" height="28" rx="4" ry="4" fill="#b07219"/>
+  <text x="10" y="170" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Java</text>
   <rect x="2" y="156" width="976" height="28" fill="transparent" pointer-events="all">
-    <title>Rust: 1661</title>
+    <title>Java: 1743</title>
   </rect>
 </g>
 <g>
