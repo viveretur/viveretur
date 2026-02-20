@@ -147,8 +147,8 @@ END{
     for (k = TOP+1; k <= n; k++) { i = idx[k]; R[++m] = L[i] }
     asort(R)
 
-    # Build one long string: "Others: A, B, C, ..."
-    others = "Others: "
+    # Build one long string: "All: A, B, C, ..."
+    others = "Alii: "
     for (j = 1; j <= m; j++) {
       s = xml_escape(R[j])
       others = others (j==1 ? "" : ", ") s

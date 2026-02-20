@@ -26,10 +26,10 @@
   </rect>
 </g>
 <g>
-  <rect x="2" y="128" width="158" height="28" rx="4" ry="4" fill="#dea584"/>
+  <rect x="2" y="128" width="174" height="28" rx="4" ry="4" fill="#dea584"/>
   <text x="10" y="142" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Rust</text>
   <rect x="2" y="128" width="976" height="28" fill="transparent" pointer-events="all">
-    <title>Rust: 2004</title>
+    <title>Rust: 2215</title>
   </rect>
 </g>
 <g>
@@ -75,6 +75,6 @@
   </rect>
 </g>
 <text x="10" y="337" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="14">
-  <tspan x="10" dy="0">Others: Assembly, Bourne Shell, DOS Batch, Fortran 77, INI, SVG, TOML, TeX, Verilog-SystemVerilog, XML, awk, make</tspan>
+  <tspan x="10" dy="0">Alii: Assembly, Bourne Shell, DOS Batch, Fortran 77, INI, SVG, TOML, TeX, Verilog-SystemVerilog, XML, awk, make</tspan>
 </text>
 </svg>
