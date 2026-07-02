@@ -15,28 +15,28 @@
   <rect x="2" y="72" width="496" height="28" rx="4" ry="4" fill="#3572A5"/>
   <text x="10" y="86" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Python</text>
   <rect x="2" y="72" width="976" height="28" fill="transparent" pointer-events="all">
-    <title>Python: 6294</title>
+    <title>Python: 6298</title>
   </rect>
 </g>
 <g>
-  <rect x="2" y="100" width="278" height="28" rx="4" ry="4" fill="#000080"/>
-  <text x="10" y="114" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Lua</text>
+  <rect x="2" y="100" width="339" height="28" rx="4" ry="4" fill="#dea584"/>
+  <text x="10" y="114" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Rust</text>
   <rect x="2" y="100" width="976" height="28" fill="transparent" pointer-events="all">
+    <title>Rust: 4301</title>
+  </rect>
+</g>
+<g>
+  <rect x="2" y="128" width="278" height="28" rx="4" ry="4" fill="#000080"/>
+  <text x="10" y="142" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Lua</text>
+  <rect x="2" y="128" width="976" height="28" fill="transparent" pointer-events="all">
     <title>Lua: 3533</title>
   </rect>
 </g>
 <g>
-  <rect x="2" y="128" width="240" height="28" rx="4" ry="4" fill="#dea584"/>
-  <text x="10" y="142" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Rust</text>
-  <rect x="2" y="128" width="976" height="28" fill="transparent" pointer-events="all">
-    <title>Rust: 3045</title>
-  </rect>
-</g>
-<g>
-  <rect x="2" y="156" width="235" height="28" rx="4" ry="4" fill="#909090"/>
+  <rect x="2" y="156" width="236" height="28" rx="4" ry="4" fill="#bfbfbf"/>
   <text x="10" y="170" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">TeX</text>
   <rect x="2" y="156" width="976" height="28" fill="transparent" pointer-events="all">
-    <title>TeX: 2992</title>
+    <title>TeX: 3003</title>
   </rect>
 </g>
 <g>
@@ -61,10 +61,10 @@
   </rect>
 </g>
 <g>
-  <rect x="2" y="268" width="38" height="28" rx="4" ry="4" fill="#919191"/>
+  <rect x="2" y="268" width="38" height="28" rx="4" ry="4" fill="#636363"/>
   <text x="10" y="282" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">YAML</text>
   <rect x="2" y="268" width="976" height="28" fill="transparent" pointer-events="all">
-    <title>YAML: 485</title>
+    <title>YAML: 487</title>
   </rect>
 </g>
 <g>
