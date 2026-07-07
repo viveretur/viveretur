@@ -12,45 +12,45 @@
   </rect>
 </g>
 <g>
-  <rect x="2" y="72" width="496" height="28" rx="4" ry="4" fill="#3572A5"/>
-  <text x="10" y="86" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Python</text>
+  <rect x="2" y="72" width="931" height="28" rx="4" ry="4" fill="#dea584"/>
+  <text x="10" y="86" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Rust</text>
   <rect x="2" y="72" width="976" height="28" fill="transparent" pointer-events="all">
-    <title>Python: 6298</title>
+    <title>Rust: 11808</title>
   </rect>
 </g>
 <g>
-  <rect x="2" y="100" width="339" height="28" rx="4" ry="4" fill="#dea584"/>
-  <text x="10" y="114" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Rust</text>
+  <rect x="2" y="100" width="503" height="28" rx="4" ry="4" fill="#3572A5"/>
+  <text x="10" y="114" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Python</text>
   <rect x="2" y="100" width="976" height="28" fill="transparent" pointer-events="all">
-    <title>Rust: 4301</title>
+    <title>Python: 6388</title>
   </rect>
 </g>
 <g>
-  <rect x="2" y="128" width="278" height="28" rx="4" ry="4" fill="#000080"/>
-  <text x="10" y="142" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Lua</text>
+  <rect x="2" y="128" width="295" height="28" rx="4" ry="4" fill="#083fa1"/>
+  <text x="10" y="142" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Markdown</text>
   <rect x="2" y="128" width="976" height="28" fill="transparent" pointer-events="all">
+    <title>Markdown: 3744</title>
+  </rect>
+</g>
+<g>
+  <rect x="2" y="156" width="278" height="28" rx="4" ry="4" fill="#000080"/>
+  <text x="10" y="170" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Lua</text>
+  <rect x="2" y="156" width="976" height="28" fill="transparent" pointer-events="all">
     <title>Lua: 3533</title>
   </rect>
 </g>
 <g>
-  <rect x="2" y="156" width="236" height="28" rx="4" ry="4" fill="#bfbfbf"/>
-  <text x="10" y="170" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">TeX</text>
-  <rect x="2" y="156" width="976" height="28" fill="transparent" pointer-events="all">
+  <rect x="2" y="184" width="236" height="28" rx="4" ry="4" fill="#bfbfbf"/>
+  <text x="10" y="198" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">TeX</text>
+  <rect x="2" y="184" width="976" height="28" fill="transparent" pointer-events="all">
     <title>TeX: 3003</title>
   </rect>
 </g>
 <g>
-  <rect x="2" y="184" width="137" height="28" rx="4" ry="4" fill="#b07219"/>
-  <text x="10" y="198" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Java</text>
-  <rect x="2" y="184" width="976" height="28" fill="transparent" pointer-events="all">
-    <title>Java: 1743</title>
-  </rect>
-</g>
-<g>
-  <rect x="2" y="212" width="135" height="28" rx="4" ry="4" fill="#083fa1"/>
-  <text x="10" y="226" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Markdown</text>
+  <rect x="2" y="212" width="137" height="28" rx="4" ry="4" fill="#b07219"/>
+  <text x="10" y="226" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Java</text>
   <rect x="2" y="212" width="976" height="28" fill="transparent" pointer-events="all">
-    <title>Markdown: 1721</title>
+    <title>Java: 1743</title>
   </rect>
 </g>
 <g>
@@ -61,10 +61,10 @@
   </rect>
 </g>
 <g>
-  <rect x="2" y="268" width="38" height="28" rx="4" ry="4" fill="#636363"/>
+  <rect x="2" y="268" width="40" height="28" rx="4" ry="4" fill="#656565"/>
   <text x="10" y="282" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">YAML</text>
   <rect x="2" y="268" width="976" height="28" fill="transparent" pointer-events="all">
-    <title>YAML: 487</title>
+    <title>YAML: 513</title>
   </rect>
 </g>
 <g>
