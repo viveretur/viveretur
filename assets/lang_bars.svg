@@ -12,10 +12,10 @@
   </rect>
 </g>
 <g>
-  <rect x="2" y="72" width="931" height="28" rx="4" ry="4" fill="#dea584"/>
+  <rect x="2" y="72" width="867" height="28" rx="4" ry="4" fill="#dea584"/>
   <text x="10" y="86" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Rust</text>
   <rect x="2" y="72" width="976" height="28" fill="transparent" pointer-events="all">
-    <title>Rust: 11808</title>
+    <title>Rust: 10995</title>
   </rect>
 </g>
 <g>
@@ -61,10 +61,10 @@
   </rect>
 </g>
 <g>
-  <rect x="2" y="268" width="40" height="28" rx="4" ry="4" fill="#656565"/>
+  <rect x="2" y="268" width="40" height="28" rx="4" ry="4" fill="#939393"/>
   <text x="10" y="282" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">YAML</text>
   <rect x="2" y="268" width="976" height="28" fill="transparent" pointer-events="all">
-    <title>YAML: 513</title>
+    <title>YAML: 511</title>
   </rect>
 </g>
 <g>
