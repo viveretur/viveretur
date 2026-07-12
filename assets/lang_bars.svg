@@ -12,10 +12,10 @@
   </rect>
 </g>
 <g>
-  <rect x="2" y="72" width="896" height="28" rx="4" ry="4" fill="#dea584"/>
+  <rect x="2" y="72" width="807" height="28" rx="4" ry="4" fill="#dea584"/>
   <text x="10" y="86" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Rust</text>
   <rect x="2" y="72" width="976" height="28" fill="transparent" pointer-events="all">
-    <title>Rust: 11367</title>
+    <title>Rust: 10233</title>
   </rect>
 </g>
 <g>
@@ -26,10 +26,10 @@
   </rect>
 </g>
 <g>
-  <rect x="2" y="128" width="295" height="28" rx="4" ry="4" fill="#083fa1"/>
+  <rect x="2" y="128" width="390" height="28" rx="4" ry="4" fill="#083fa1"/>
   <text x="10" y="142" fill="#f0f0f0" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="16" dominant-baseline="middle" pointer-events="none">Markdown</text>
   <rect x="2" y="128" width="976" height="28" fill="transparent" pointer-events="all">
-    <title>Markdown: 3744</title>
+    <title>Markdown: 4954</title>
   </rect>
 </g>
 <g>
